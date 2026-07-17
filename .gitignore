@@ -41,11 +41,6 @@ models/siamese_resnet18.pt
 models/distilbert_fraud/
 models/distilbert_fraud/**
 
-# ── Plots / artefacts ─────────────────────────────────────────
-plots/
-*.png
-*.pdf
-
 # ── OS / IDE ──────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
