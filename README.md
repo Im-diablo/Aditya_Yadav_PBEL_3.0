@@ -130,11 +130,10 @@ graph TD
 
 ## Project Structure
 ```text
-AI-Fraud Detection System/
+Aditya_Yadav_PBEL_3.0/
 ├── app.py                     # FastAPI application entrypoint
 ├── requirements.txt           # Virtual environment dependencies
 ├── train_all.py               # Combined training script for all 3 models
-├── retrain_ml.py              # Standalone XGBoost retraining script
 ├── evaluate_models.py         # Evaluates metrics across all active models
 ├── models/                    # Serialized checkpoints and metric metadata
 │   ├── distilbert_fraud/      # Fine-tuned DistilBERT directory
@@ -165,8 +164,8 @@ AI-Fraud Detection System/
 ### Setting Up
 1. **Clone the repository and enter the project folder**:
    ```bash
-   git clone https://github.com/Im-diablo/AI-Fraud-Detection-System.git
-   cd "AI-Fraud Detection System"
+   git clone https://github.com/Im-diablo/Aditya_Yadav_PBEL_3.0.git
+   cd Aditya_Yadav_PBEL_3.0
    ```
 2. **Install requirements**:
    ```bash
